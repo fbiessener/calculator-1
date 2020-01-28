@@ -9,12 +9,12 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
-    print("This is broken")
+    return num1 - num2
 
 
 def multiply(num1, num2):
     """Multiply the two inputs together."""
-    print("This is broken")
+    return num1 * num2
 
 
 def divide(num1, num2):
