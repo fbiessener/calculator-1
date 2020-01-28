@@ -19,12 +19,12 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
-    print("This is broken")
+    return num1 / num2
 
 
 def square(num1):
     """Return the square of the input."""
-    print("This is broken")
+    return num1 ** 2
 
 
 def cube(num1):
